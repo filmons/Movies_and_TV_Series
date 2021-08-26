@@ -1,8 +1,7 @@
-function Series() {
+function Series ()  {
     return (
         <div>
-            <span className="pageTitle">Movies</span>
-            
+            <span>Series</span>
         </div>
     )
 }
