@@ -1,7 +1,7 @@
 function Series ()  {
     return (
         <div>
-            <span>Series</span>
+            <span className="pageTitle">Series</span>
         </div>
     )
 }
