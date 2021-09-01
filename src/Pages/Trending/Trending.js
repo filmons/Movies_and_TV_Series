@@ -31,6 +31,7 @@ const [content, setContent] = useState([])
     window.scroll(0, 0);
 
     fetchTrending();
+    // eslint-disable-next-line
        
     }, [page]);
 
